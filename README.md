@@ -20,7 +20,7 @@ To bring these insights to life, I've created interactive visualizations using P
 
 #### Dashboard Preview
 
-
+![Dashboard Preview](Pizza.jpeg)
 #### Dataset
 This analysis is based on a comprehensive dataset that contains rich information about pizza sales. It serves as the foundation for data-driven decisions and insights.
 
