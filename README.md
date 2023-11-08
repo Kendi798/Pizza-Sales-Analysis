@@ -18,6 +18,7 @@ e) Average Pizza per Order: Customers ordered an average of 2.32 pizzas per orde
 #### Visualizations
 To bring these insights to life, I've created interactive visualizations using Power BI. The reports include charts, graphs, and dashboards that allow you to explore the data in a user-friendly manner. Dive into the Power BI report to experience the full spectrum of our findings.
 
+#### Dashboard Preview
 
 
 #### Dataset
